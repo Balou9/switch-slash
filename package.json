@@ -1,0 +1,23 @@
+{
+  "name": "switch-slash",
+  "version": "0.0.1",
+  "description": "Switch slash and backslash back and forth",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Balou9/switch-slash.git"
+  },
+  "keywords": [
+    "switch",
+    "slash"
+  ],
+  "author": "Emmanuel O.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Balou9/switch-slash/issues"
+  },
+  "homepage": "https://github.com/Balou9/switch-slash#readme"
+}
