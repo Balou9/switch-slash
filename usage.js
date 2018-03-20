@@ -10,4 +10,3 @@ var number = 0
 console.log('before switch', sl, 'after switch', switchSlash(sl))
 console.log('before switch', bslstr, 'after switch', switchSlash(bslstr))
 console.log('before switch', nosl, 'after switch', switchSlash(nosl))
-console.log('before switch', number, 'after switch', switchSlash(number))

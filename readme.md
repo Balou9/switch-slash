@@ -22,7 +22,6 @@ npm install --save switch-slash
 var switchSlash = require('./index.js')
 var str = str
 console.log(str, switchSlash(str))
-
 ```
 
 ***
