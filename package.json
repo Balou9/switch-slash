@@ -1,6 +1,6 @@
 {
   "name": "switch-slash",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Switch slash and backslash back and forth",
   "main": "index.js",
   "scripts": {
