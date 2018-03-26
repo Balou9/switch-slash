@@ -4,7 +4,7 @@
 
 ***
 
-Switch slash and backslash in string 
+Switch slash and backslash in string
 
 ***
 
@@ -21,7 +21,7 @@ npm install --save switch-slash
 ``` js
 var switchSlash = require('./index.js')
 var str = 'alpha//\\dg'
-console.log([sl, switchSlash(sl)])
+console.log([str, switchSlash(str)])
 ```
 
 ***
