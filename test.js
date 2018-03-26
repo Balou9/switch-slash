@@ -21,3 +21,13 @@ tape('Switch if str has both slash and backslash', function (t) {
   t.ok(switchSlash(bslstr), 'is true')
   t.end()
 })
+
+tape('Switch equal test', function (t) {
+  t.equal(switchSlash('/\\/'), '\\/\\', 'is equal')
+  t.end()
+})
+
+tape('Switch is not taking numbers', function (t) {
+  t.throws(function () { return switchSlash(number)})
+  t.end()
+})

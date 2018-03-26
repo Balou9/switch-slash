@@ -20,8 +20,8 @@ npm install --save switch-slash
 
 ``` js
 var switchSlash = require('./index.js')
-var str = str
-console.log(str, switchSlash(str))
+var str = 'alpha//\\dg'
+console.log([sl, switchSlash(sl)])
 ```
 
 ***

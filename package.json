@@ -1,6 +1,6 @@
 {
   "name": "switch-slash",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Switch slash and backslash back and forth",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,6 @@
   },
   "homepage": "https://github.com/Balou9/switch-slash#readme",
   "dependencies": {
-    "slash-detector": "^1.0.2",
     "tape": "^4.9.0"
   }
 }
