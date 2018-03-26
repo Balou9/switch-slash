@@ -1,7 +1,7 @@
 {
   "name": "switch-slash",
   "version": "1.0.0",
-  "description": "Switch slash and backslash back and forth",
+  "description": "Switch slash and backslash in string",
   "main": "index.js",
   "scripts": {
     "test": "tape test.js"
@@ -12,7 +12,8 @@
   },
   "keywords": [
     "switch",
-    "slash"
+    "slash",
+    "backslash"
   ],
   "author": "Emmanuel O.",
   "license": "MIT",
